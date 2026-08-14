@@ -2,6 +2,12 @@
 
 A machine learning project that predicts whether a telecom customer is likely to churn. The project covers data cleaning, exploratory data analysis (EDA), feature engineering, supervised machine learning, model comparison, and a Streamlit prediction application.
 
+## 🚀 Live Demo
+
+**Try the deployed application:**
+
+https://customer-churn-prediction-shakti.streamlit.app
+
 ## Project Overview
 
 Customer churn is a major business problem for subscription-based companies. The goal of this project is to identify customers who are more likely to leave so that businesses can take proactive retention actions.
@@ -112,7 +118,7 @@ The model's churn recall is lower than its no-churn recall. This is important fr
 
 ## Streamlit Application
 
-The project includes a Streamlit web application that allows a user to enter customer information and receive:
+The deployed Streamlit application allows a user to enter customer information and receive:
 
 - Churn prediction
 - Churn probability
@@ -195,7 +201,6 @@ The predictions should be treated as decision-support information rather than gu
 - Experiment with class balancing techniques such as SMOTE or class weights.
 - Add cross-validation and hyperparameter optimization.
 - Add feature importance visualizations to the application.
-- Deploy the Streamlit application publicly.
 - Add model monitoring and performance tracking.
 
 ## Author
