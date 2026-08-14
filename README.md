@@ -131,11 +131,14 @@ customer-churn-prediction/
 │
 ├── model/
 │   ├── customer_churn_model.pkl
-│   └── features.pkl
+│   ├── features.pkl
+│   └── scaler.pkl
 │
 ├── Data/
+│   └── telecom churn dataset
 │
 ├── Notebooks/
+│   └── Task_1.ipynb
 │
 ├── README.md
 └── requirements.txt
